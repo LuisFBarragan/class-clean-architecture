@@ -1,0 +1,17 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CA-InterfaceAdapters-Mappers.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CA-InterfaceAdapters-Mappers.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CA-InterfaceAdapters-Mappers.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CL-ApplicationLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CL-ApplicationLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\bin\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.csproj.AssemblyReference.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.csproj.CopyComplete
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\refint\CA-InterfaceAdapters-Mappers.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\CA-InterfaceAdapters-Mappers.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-Mappers\obj\Debug\net8.0\ref\CA-InterfaceAdapters-Mappers.dll

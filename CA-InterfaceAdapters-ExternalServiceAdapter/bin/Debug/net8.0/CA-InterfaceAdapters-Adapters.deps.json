@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CA-InterfaceAdapters-Adapters/1.0.0": {
+        "dependencies": {
+          "CL-ApplicationLayer": "1.0.0",
+          "CL-EnterpriseLayer": "1.0.0"
+        },
+        "runtime": {
+          "CA-InterfaceAdapters-Adapters.dll": {}
+        }
+      },
+      "CL-ApplicationLayer/1.0.0": {
+        "dependencies": {
+          "CL-EnterpriseLayer": "1.0.0"
+        },
+        "runtime": {
+          "CL-ApplicationLayer.dll": {}
+        }
+      },
+      "CL-EnterpriseLayer/1.0.0": {
+        "runtime": {
+          "CL-EnterpriseLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA-InterfaceAdapters-Adapters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL-ApplicationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CL-EnterpriseLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

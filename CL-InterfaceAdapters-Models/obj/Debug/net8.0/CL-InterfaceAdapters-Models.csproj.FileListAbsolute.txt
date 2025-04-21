@@ -1,0 +1,11 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\bin\Debug\net8.0\CL-InterfaceAdapters-Models.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\bin\Debug\net8.0\CL-InterfaceAdapters-Models.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\bin\Debug\net8.0\CL-InterfaceAdapters-Models.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\refint\CL-InterfaceAdapters-Models.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\CL-InterfaceAdapters-Models.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Models\obj\Debug\net8.0\ref\CL-InterfaceAdapters-Models.dll

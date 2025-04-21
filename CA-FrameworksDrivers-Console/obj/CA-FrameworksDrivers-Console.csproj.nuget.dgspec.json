@@ -1,0 +1,463 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-FrameworksDrivers-Console\\CA-FrameworksDrivers-Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-FrameworksDrivers-Console\\CA-FrameworksDrivers-Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-FrameworksDrivers-Console\\CA-FrameworksDrivers-Console.csproj",
+        "projectName": "CA-FrameworksDrivers-Console",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-FrameworksDrivers-Console\\CA-FrameworksDrivers-Console.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-FrameworksDrivers-Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\CL-InterfaceAdapters-Presenters.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\CL-InterfaceAdapters-Presenters.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\CL-InterfaceAdapters-Repository.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\CL-InterfaceAdapters-Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj",
+        "projectName": "CL-ApplicationLayer",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj",
+        "projectName": "CL-EnterpriseLayer",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj",
+        "projectName": "CL-InterfaceAdapters-Data",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj",
+        "projectName": "CL-InterfaceAdapters-Models",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\CL-InterfaceAdapters-Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\CL-InterfaceAdapters-Presenters.csproj",
+        "projectName": "CL-InterfaceAdapters-Presenters",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\CL-InterfaceAdapters-Presenters.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\CL-InterfaceAdapters-Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\CL-InterfaceAdapters-Repository.csproj",
+        "projectName": "CL-InterfaceAdapters-Repository",
+        "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\CL-InterfaceAdapters-Repository.csproj",
+        "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Data\\CL-InterfaceAdapters-Data.csproj"
+              },
+              "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj": {
+                "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-InterfaceAdapters-Models\\CL-InterfaceAdapters-Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

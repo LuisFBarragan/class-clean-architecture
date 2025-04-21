@@ -1,0 +1,17 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.csproj.AssemblyReference.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CA-InterfaceAdapters-Adapters.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CA-InterfaceAdapters-Adapters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CA-InterfaceAdapters-Adapters.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CL-ApplicationLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CL-ApplicationLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\bin\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.csproj.CopyComplete
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\refint\CA-InterfaceAdapters-Adapters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\CA-InterfaceAdapters-Adapters.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CA-InterfaceAdapters-ExternalServiceAdapter\obj\Debug\net8.0\ref\CA-InterfaceAdapters-Adapters.dll

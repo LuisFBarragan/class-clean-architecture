@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>CA_FrameworksDrivers_ExternalService</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA-InterfaceAdapters-ExternalServiceAdapter\CA-InterfaceAdapters-Adapters.csproj" />
+    <ProjectReference Include="..\CL-ApplicationLayer\CL-ApplicationLayer.csproj" />
+    <ProjectReference Include="..\CL-EnterpriseLayer\CL-EnterpriseLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwThHvk1e/cPHdCr3zAhi/EfI0Ze4CjECERwSRvjNG/bY2C0y4DZAu+SZlN/EyPgrRXRo4ZH9z7UWKVquzDdNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\TestComponent\\TestComponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\strat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

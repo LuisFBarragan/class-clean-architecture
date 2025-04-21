@@ -1,0 +1,14 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.exe
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.runtimeconfig.json
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\bin\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\refint\StructuredProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\StructuredProgramming.genruntimeconfig.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\StructuredProgramming\obj\Debug\net8.0\ref\StructuredProgramming.dll

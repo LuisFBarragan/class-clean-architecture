@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CL_FrameworksDrivers_API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA-FrameworksDrivers-ExternalService\CA-FrameworksDrivers-ExternalService.csproj" />
+    <ProjectReference Include="..\CA-InterfaceAdapters-ExternalServiceAdapter\CA-InterfaceAdapters-Adapters.csproj" />
+    <ProjectReference Include="..\CA-InterfaceAdapters-Mappers\CA-InterfaceAdapters-Mappers.csproj" />
+    <ProjectReference Include="..\CL-ApplicationLayer\CL-ApplicationLayer.csproj" />
+    <ProjectReference Include="..\CL-EnterpriseLayer\CL-EnterpriseLayer.csproj" />
+    <ProjectReference Include="..\CL-InterfaceAdapters-Data\CL-InterfaceAdapters-Data.csproj" />
+    <ProjectReference Include="..\CL-InterfaceAdapters-Presenters\CL-InterfaceAdapters-Presenters.csproj" />
+    <ProjectReference Include="..\CL-InterfaceAdapters\CL-InterfaceAdapters-Repository.csproj" />
+  </ItemGroup>
+
+</Project>

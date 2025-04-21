@@ -1,0 +1,17 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-InterfaceAdapters-Data.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-InterfaceAdapters-Data.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-InterfaceAdapters-Data.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.csproj.AssemblyReference.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.csproj.CopyComplete
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\refint\CL-InterfaceAdapters-Data.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\CL-InterfaceAdapters-Data.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\obj\Debug\net8.0\ref\CL-InterfaceAdapters-Data.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-InterfaceAdapters-Models.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Data\bin\Debug\net8.0\CL-InterfaceAdapters-Models.pdb

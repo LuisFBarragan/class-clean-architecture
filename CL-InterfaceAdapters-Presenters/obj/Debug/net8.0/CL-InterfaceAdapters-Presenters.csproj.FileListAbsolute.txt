@@ -1,0 +1,17 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-InterfaceAdapters-Presenters.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-InterfaceAdapters-Presenters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-InterfaceAdapters-Presenters.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-ApplicationLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-ApplicationLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\bin\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.csproj.AssemblyReference.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.csproj.CopyComplete
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\refint\CL-InterfaceAdapters-Presenters.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\CL-InterfaceAdapters-Presenters.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-InterfaceAdapters-Presenters\obj\Debug\net8.0\ref\CL-InterfaceAdapters-Presenters.dll

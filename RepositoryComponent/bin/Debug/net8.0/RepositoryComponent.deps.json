@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepositoryComponent/1.0.0": {
+        "dependencies": {
+          "BusinessComponent": "1.0.0"
+        },
+        "runtime": {
+          "RepositoryComponent.dll": {}
+        }
+      },
+      "BusinessComponent/1.0.0": {
+        "runtime": {
+          "BusinessComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepositoryComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

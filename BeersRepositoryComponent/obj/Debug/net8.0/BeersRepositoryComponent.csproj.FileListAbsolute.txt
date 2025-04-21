@@ -1,0 +1,11 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\bin\Debug\net8.0\BeersRepositoryComponent.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\bin\Debug\net8.0\BeersRepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\bin\Debug\net8.0\BeersRepositoryComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\refint\BeersRepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\BeersRepositoryComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\BeersRepositoryComponent\obj\Debug\net8.0\ref\BeersRepositoryComponent.dll

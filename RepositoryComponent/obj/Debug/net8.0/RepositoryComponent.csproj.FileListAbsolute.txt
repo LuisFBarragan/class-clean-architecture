@@ -1,0 +1,15 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\bin\Debug\net8.0\RepositoryComponent.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\bin\Debug\net8.0\RepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\bin\Debug\net8.0\RepositoryComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\bin\Debug\net8.0\BusinessComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\bin\Debug\net8.0\BusinessComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.csproj.AssemblyReference.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.csproj.CopyComplete
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\refint\RepositoryComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\RepositoryComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\RepositoryComponent\obj\Debug\net8.0\ref\RepositoryComponent.dll

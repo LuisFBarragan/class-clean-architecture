@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CL-ApplicationLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CL-EnterpriseLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CL-ApplicationLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CL-ApplicationLayer.dll": {}
+        }
+      },
+      "CL-EnterpriseLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CL-EnterpriseLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CL-EnterpriseLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CL-ApplicationLayer/1.0.0": {
+      "type": "project",
+      "path": "../CL-ApplicationLayer/CL-ApplicationLayer.csproj",
+      "msbuildProject": "../CL-ApplicationLayer/CL-ApplicationLayer.csproj"
+    },
+    "CL-EnterpriseLayer/1.0.0": {
+      "type": "project",
+      "path": "../CL-EnterpriseLayer/CL-EnterpriseLayer.csproj",
+      "msbuildProject": "../CL-EnterpriseLayer/CL-EnterpriseLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CL-ApplicationLayer >= 1.0.0",
+      "CL-EnterpriseLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\strat\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-InterfaceAdapters-ExternalServiceAdapter\\CA-InterfaceAdapters-Adapters.csproj",
+      "projectName": "CA-InterfaceAdapters-Adapters",
+      "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-InterfaceAdapters-ExternalServiceAdapter\\CA-InterfaceAdapters-Adapters.csproj",
+      "packagesPath": "C:\\Users\\strat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CA-InterfaceAdapters-ExternalServiceAdapter\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\strat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj": {
+              "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-ApplicationLayer\\CL-ApplicationLayer.csproj"
+            },
+            "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj": {
+              "projectPath": "C:\\Users\\strat\\source\\repos\\CleanArchitectureSample\\CL-EnterpriseLayer\\CL-EnterpriseLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

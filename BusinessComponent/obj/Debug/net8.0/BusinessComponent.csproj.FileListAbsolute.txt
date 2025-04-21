@@ -1,0 +1,11 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\bin\Debug\net8.0\BusinessComponent.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\bin\Debug\net8.0\BusinessComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\bin\Debug\net8.0\BusinessComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\refint\BusinessComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\BusinessComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\BusinessComponent\obj\Debug\net8.0\ref\BusinessComponent.dll

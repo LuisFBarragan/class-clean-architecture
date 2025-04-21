@@ -1,0 +1,11 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\bin\Debug\net8.0\OperationComponent.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\bin\Debug\net8.0\OperationComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\bin\Debug\net8.0\OperationComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\refint\OperationComponent.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\OperationComponent.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\OperationComponent\obj\Debug\net8.0\ref\OperationComponent.dll

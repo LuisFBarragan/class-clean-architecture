@@ -1,0 +1,14 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.exe
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgramming.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll

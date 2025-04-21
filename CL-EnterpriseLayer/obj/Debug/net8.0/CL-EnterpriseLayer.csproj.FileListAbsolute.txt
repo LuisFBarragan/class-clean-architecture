@@ -1,0 +1,11 @@
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\bin\Debug\net8.0\CL-EnterpriseLayer.deps.json
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\bin\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\bin\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.AssemblyInfoInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.AssemblyInfo.cs
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.csproj.CoreCompileInputs.cache
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\refint\CL-EnterpriseLayer.dll
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\CL-EnterpriseLayer.pdb
+C:\Users\strat\source\repos\CleanArchitectureSample\CL-EnterpriseLayer\obj\Debug\net8.0\ref\CL-EnterpriseLayer.dll

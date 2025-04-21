@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>CL_InterfaceAdapters</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CL-ApplicationLayer\CL-ApplicationLayer.csproj" />
+    <ProjectReference Include="..\CL-EnterpriseLayer\CL-EnterpriseLayer.csproj" />
+    <ProjectReference Include="..\CL-InterfaceAdapters-Data\CL-InterfaceAdapters-Data.csproj" />
+    <ProjectReference Include="..\CL-InterfaceAdapters-Models\CL-InterfaceAdapters-Models.csproj" />
+  </ItemGroup>
+
+</Project>
